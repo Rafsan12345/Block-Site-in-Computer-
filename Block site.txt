@@ -1,0 +1,17 @@
+C:\Windows\System32\drivers\etc\hosts
+
+127.0.0.1   tiktok.com
+127.0.0.1   www.tiktok.com
+
+# End of section
+
+127.0.0.1   chat.openai.com
+127.0.0.1   www.chat.openai.com
+
+127.0.0.1   gemini.com
+127.0.0.1   www.gemini.com
+
+File extension .txt নয়, শুধু hosts save 
+
+
+restert browser....... 
